@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-![Tampilan Halaman Login](assets/images/lpage.png)
+![Tampilan Halaman Login](assets/images/lpage.PNG)
 
 This project is a starting point for a Flutter application.
 
